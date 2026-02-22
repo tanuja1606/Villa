@@ -87,4 +87,4 @@ Frontend Developer (Beginner Level Project)
 
 ## 📄 License
 
-This project is created for learning purposes.
+This project is free to use for learning and educational purposes.
